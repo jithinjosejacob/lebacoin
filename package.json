@@ -1,0 +1,24 @@
+{
+  "name": "lebancoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest-playwright-preset": "^1.6.1",
+    "playwright": "^1.12.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "jest-puppeteer": "^5.0.4",
+    "puppeteer": "^10.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
